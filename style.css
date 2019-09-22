@@ -5,20 +5,12 @@ h2,
 button,
 li {
 	font-family: 'Roboto', sans-serif;
+  text-align: center;
 }
 
 body {
+ background-image: url("greek_background.jpg");
+ background-repeat: repeat;
  background-color: #C9E0F3;
  /* color: #FFFFFF; */
 }
-/* h1 {
- color: #FFFF33;
- text-align: center;
- font: italic 200% fantasy;
-}
-p {
- background-color: #FFFF33;
- color: #333300;
- text-align: right;
- border: 3px groove #FFFF33;
-} */
